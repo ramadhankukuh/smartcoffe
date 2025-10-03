@@ -46,10 +46,10 @@ export default function Home() {
       <header className="max-w-4xl mx-auto">
         <div className="flex items-center justify-between">
           <h1 className="text-2xl md:text-3xl font-extrabold text-slate-800">
-            E-Cul Fibbonaci
+            E-Black Fibbonaci
           </h1>
         </div>
-        <p className="mt-4 text-slate-600">Pilih, mau pesan lewat apa?</p>
+        <p className="mt-4 text-slate-600">Pilih, mau pesan lewat apa reng</p>
       </header>
 
       <main className="max-w-4xl mx-auto mt-8 grid grid-cols-1 sm:grid-cols-3 gap-6">
