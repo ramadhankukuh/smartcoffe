@@ -72,7 +72,7 @@ export default function OrderPage() {
   return (
     <div className="min-h-screen bg-slate-50">
       <HeaderCategory 
-        title="E-Cul Fibbonaci" 
+        title="E-Black Fibbonaci" 
         onCategoryChange={(cat) => setSelectedCategory(cat)} 
       />
 
