@@ -9,7 +9,7 @@ export default function Header() {
           <ArrowLeft size={22} />
         </button>
         <h1 className="font-semibold text-base truncate">
-          E-Black Fibbonaci
+          SmartCoffee.
         </h1>
         <button className="p-2">
           <Search size={22} />
