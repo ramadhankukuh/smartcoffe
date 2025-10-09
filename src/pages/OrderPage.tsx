@@ -76,9 +76,20 @@ function saveCartToLocalStorage(cart: Record<number, number>) {
     "Indoor 1",
     "Indoor 2",
     "Indoor 3",
+    "Indoor 4",
+    "Indoor 5",
+    "Indoor 6",
+    "Indoor 7",
+    "Indoor 8",
+    "Indoor 9",
+    "Indoor 10",
     "Outdoor 1",
     "Outdoor 2",
     "Outdoor 3",
+    "Outdoor 4",
+    "Outdoor 5",
+    "Outdoor 6",
+    "Outdoor 7",
   ];
 
   useEffect(() => {
@@ -234,11 +245,22 @@ useEffect(() => {
                 <option value="Indoor 1">Indoor 1</option>
                 <option value="Indoor 2">Indoor 2</option>
                 <option value="Indoor 3">Indoor 3</option>
+                <option value="Indoor 4">Indoor 4</option>
+                <option value="Indoor 5">Indoor 5</option>
+                <option value="Indoor 6">Indoor 6</option>
+                <option value="Indoor 7">Indoor 7</option>
+                <option value="Indoor 8">Indoor 8</option>
+                <option value="Indoor 9">Indoor 9</option>
+                <option value="Indoor 10">Indoor 10</option>
               </optgroup>
               <optgroup label="Outdoor">
                 <option value="Outdoor 1">Outdoor 1</option>
                 <option value="Outdoor 2">Outdoor 2</option>
                 <option value="Outdoor 3">Outdoor 3</option>
+                <option value="Outdoor 4">Outdoor 4</option>
+                <option value="Outdoor 5">Outdoor 5</option>
+                <option value="Outdoor 6">Outdoor 6</option>
+                <option value="Outdoor 7">Outdoor 7</option>
               </optgroup>
             </select>
 
